@@ -36,7 +36,9 @@
 
   1. **Git and Github**
    
-     Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.[![Git detailed knowledge](http://img.youtube.com/vi/NR_A2gCxaLE/0.jpg)](http://www.youtube.com/watch?v=NR_A2gCxaLE "watchvideo")
+     Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+     
+     [![Git detailed knowledge](http://img.youtube.com/vi/NR_A2gCxaLE/0.jpg)](http://www.youtube.com/watch?v=NR_A2gCxaLE "watchvideo")
 
 
 
