@@ -24,7 +24,7 @@
 1. Install Python .[Python latest Version](https://www.python.org/downloads/)
 2. Now install Opencv Python Library by command -**pip install opencv-python**[![install opencv](http://img.youtube.com/vi/d3AT9EGp4iw/0.jpg)](http://www.youtube.com/watch?v=d3AT9EGp4iw "watchvideo")
 3. Open a texteditor and write a code to  access camera . [![learn code](http://img.youtube.com/vi/-RtVZsCvXAQ/0.jpg)](http://www.youtube.com/watch?v=-RtVZsCvXAQ"watchvideo")
-4.(if no IDLE is used) Run the code through the command on cmd  **python filename.pythonextension(py)**
+4. (if no IDLE is used) Run the code through the command on cmd  **python filename.pythonextension(py)**
 
 ## Task2
 
